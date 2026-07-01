@@ -18,7 +18,7 @@ If you find this project useful, please cite our paper:
 @article{BCMUNet2026,
   title={BCM-UNet: Boundary-Guided Feature Refinement for Remote Sensing Semantic Segmentation},
   author={Zhouqiang},
-  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  journal={Under review},
   year={2026}
 }
 ```
